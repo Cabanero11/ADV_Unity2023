@@ -6,10 +6,12 @@ public class ChangeColorCapsule : MonoBehaviour
 {
     private Material mat;
 
+    [Header("COLORES")]
     public Color32 colorGreen;
     public Color32 colorBlue;
     public Color32 colorViolet;
     public Color32 colorRed;
+
     // Start is called before the first frame update
     void Start()
     {

@@ -18,7 +18,7 @@ public class MoverCapsula : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.W))
         {
             Vector3 launchDirection = mainCamera.transform.position - transform.position;
             rb.AddForce(launchDirection.normalized * moveForce, ForceMode.Impulse);
