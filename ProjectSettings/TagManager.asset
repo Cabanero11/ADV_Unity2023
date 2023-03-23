@@ -9,6 +9,11 @@ TagManager:
   - TriggerViolet
   - TriggerRed
   - Ground
+  - Crates
+  - Texto
+  - Ball
+  - Spikes
+  - SistemaPuntos
   layers:
   - Default
   - TransparentFX
