@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 294ca13a4c3ef744e85506f1aee642d5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathEffect: {fileID: 8247074144631962567, guid: 250a179358c81eb4aa132840100a560c,
+      type: 3}
+  - respawnPoint: {instanceID: 0}
+  - firstJumpAudioClip: {instanceID: 0}
+  - doubleJumpAudioClip: {instanceID: 0}
+  - tripleJumpAudioClip: {instanceID: 0}
+  - cinemachineCamera: {instanceID: 0}
+  - superJumpAudioClip: {instanceID: 0}
+  - superJumpParticles: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

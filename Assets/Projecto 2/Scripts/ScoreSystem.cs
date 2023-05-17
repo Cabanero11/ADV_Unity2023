@@ -12,7 +12,6 @@ public class ScoreSystem : MonoBehaviour
     public TextMeshPro highscoreText;
     public static int score = 0;
     public static int highscore = 0;
-   
 
 
     public static ScoreSystem Instance

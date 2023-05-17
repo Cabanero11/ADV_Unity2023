@@ -14,6 +14,11 @@ TagManager:
   - Ball
   - Spikes
   - SistemaPuntos
+  - DeathZone
+  - SuperSalto
+  - DejarSalto
+  - PlayAudio
+  - StopAudio
   layers:
   - Default
   - TransparentFX
